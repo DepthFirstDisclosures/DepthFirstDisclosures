@@ -1,4 +1,5 @@
-# Depth First Disclosures
+# DepthFirst Disclosures
+A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported and responsibly disclosed.  
 
 * [Swetrix Web Analytics RCE](https://github.com/Swetrix/swetrix/pull/397) CVE-2025-59304
 * [Redacted] CVE-2025-59305
