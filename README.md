@@ -8,5 +8,7 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * [Redacted] [Awaiting CVE Number]
 * [Redacted] [Awaiting CVE Number]
 * [Redacted] [Awaiting CVE Number]
+* [Redacted] [Awaiting CVE Number]
+* [Redacted] [Awaiting CVE Number]
 
 _Unpatched vulnerabilities remain private until vendors have had the opportunity to release fixes._
