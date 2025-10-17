@@ -7,8 +7,8 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * [Pending CVE] [Redacted database library]
 * [Pending CVE] [Redacted CMS platform]
 * [Pending CVE] [Redacted financial operations SaaS]
-* [Pending CVE] [Redacted]
-* [Pending CVE] [Redacted]
-* [Pending CVE] [Redacted]
+* [Pending CVE] [Fully Redacted (unpatched)]
+* [Pending CVE] [Fully Redacted (unpatched)]
+* [Pending CVE] [Fully Redacted (unpatched)]
 
 _Unpatched vulnerabilities remain private until vendors have had the opportunity to release fixes._
