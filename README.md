@@ -5,8 +5,8 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * CVE-2025-59305 [Langfuse Data Corruption and Denial of Service](https://www.depthfirst.com/post/how-an-authorization-flaw-reveals-a-common-security-blind-spot-cve-2025-59305-case-study) 
 * CVE-2025-59419 [Netty Library Email Authentication Bypass SMTP Injection](https://www.depthfirst.com/post/our-ai-agent-found-a-netty-zero-day-that-bypasses-email-authentication-the-story-of-cve-2025-59419)
 * [CVE Pending] [Bludit CMS Authentication Bypass](https://github.com/bludit/bludit/pull/1616)
-* [CVE Pending] [Bludit CMS Webhook Secret Bypass](https://github.com/bludit/bludit/pull/1617)
-* [CVE Pending] [Redacted database library]
+* [CVE Pending] [Bludit CMS RCE via Webhook Secret Bypass](https://github.com/bludit/bludit/pull/1617)
+* [CVE Pending] [XORM Database Library (used by Grafana) Arbitrary Data Manipulation](https://gitea.com/xorm/xorm/commit/b21bdb9872f6a9a5a01fef131a1a48d0e5485354)
 * [CVE Pending] [Redacted financial operations SaaS]
 * [CVE Pending] [Fully Redacted (unpatched)]
 * [CVE Pending] [Fully Redacted (unpatched)]
