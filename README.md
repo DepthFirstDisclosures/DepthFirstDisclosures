@@ -7,7 +7,7 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * [CVE Pending] [Bludit CMS Authentication Bypass](https://github.com/bludit/bludit/pull/1616)
 * [CVE Pending] [Bludit CMS RCE via Webhook Secret Bypass](https://github.com/bludit/bludit/pull/1617)
 * [CVE Pending] [XORM Database Library (used by Grafana) Arbitrary Data Manipulation](https://gitea.com/xorm/xorm/commit/b21bdb9872f6a9a5a01fef131a1a48d0e5485354)
-* [CVE Pending] [Redacted financial operations SaaS]
+* [CVE Pending] [Expensify Secure Authorization Bypass](https://github.com/Expensify/App/commit/bb4d19c5585b93582013437590fe498efe8866f8)
 * [CVE Pending] [Fully Redacted (unpatched)]
 * [CVE Pending] [Fully Redacted (unpatched)]
 * [CVE Pending] [Fully Redacted (unpatched)]
