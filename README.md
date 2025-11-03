@@ -1,5 +1,6 @@
 # DepthFirst Disclosures
-A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported and responsibly disclosed.  
+## Vulnerabilities
+A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported and responsibly disclosed
 
 * CVE-2025-59304 [Swetrix Web Analytics RCE](https://github.com/Swetrix/swetrix/pull/397](https://www.depthfirst.com/post/anatomy-of-an-automated-patch-fixing-a-file-upload-rce-cve-2025-59304))
 * CVE-2025-59305 [Langfuse Data Corruption and Denial of Service](https://www.depthfirst.com/post/how-an-authorization-flaw-reveals-a-common-security-blind-spot-cve-2025-59305-case-study) 
@@ -13,3 +14,9 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * [CVE Pending] [Fully Redacted (unpatched)]
 
 _Unpatched vulnerabilities remain private until vendors have had the opportunity to release fixes._
+
+## Open Source Project Contributions
+Security-adjacent bugs found and fixed by DepthFirst in OSS
+* [Esbuild XSS via foldername on dev server](https://github.com/evanw/esbuild/pull/4316#event-20653677937)
+
+  
