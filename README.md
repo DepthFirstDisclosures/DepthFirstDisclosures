@@ -1,6 +1,6 @@
 # DepthFirst Disclosures
 ## Vulnerabilities
-A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported and responsibly disclosed
+A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported and responsibly disclosed. DepthFirst contributes and patches when project's security policys allow.
 
 * CVE-2025-59304 [Swetrix Web Analytics RCE](https://www.depthfirst.com/post/anatomy-of-an-automated-patch-fixing-a-file-upload-rce-cve-2025-59304) | [DepthFirst Patch](https://github.com/Swetrix/swetrix/pull/397)
 * CVE-2025-59305 [Langfuse Data Corruption and Denial of Service](https://www.depthfirst.com/post/how-an-authorization-flaw-reveals-a-common-security-blind-spot-cve-2025-59305-case-study)
