@@ -12,6 +12,7 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * CVE-2025-64721 [Sandboxie Sandbox Escape & Privilege Escalation to SYSTEM](https://github.com/sandboxie-plus/Sandboxie/security/advisories/GHSA-w476-j57g-96vp)
 * [CVE Pending] [Fully Redacted (unpatched)]
 * [CVE Pending] [Fully Redacted (unpatched)]
+* [CVE Pending] [Fully Redacted (unpatched)]
 
 _Unpatched vulnerabilities remain private until vendors have had the opportunity to release fixes._
 
