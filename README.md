@@ -11,6 +11,7 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * CVE Pending [Expensify Secure Authorization Bypass](https://github.com/Expensify/App/commit/bb4d19c5585b93582013437590fe498efe8866f8)
 * CVE-2025-64721 [Sandboxie Sandbox Escape & Privilege Escalation to SYSTEM](https://github.com/sandboxie-plus/Sandboxie/security/advisories/GHSA-w476-j57g-96vp)
 * CVE-2025-14986 Temporal Cross-Tenant Data Leak and Policy Bypass
+* [CVE Pending] [Walkdir Rust Library Symlink traversal and Defensive Bypass](https://github.com/BurntSushi/walkdir/issues/209)
 * [CVE Pending] [Fully Redacted (unpatched)]
 * [CVE Pending] [Fully Redacted (unpatched)]
 * [CVE Pending] [Fully Redacted (unpatched)]
