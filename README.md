@@ -8,7 +8,7 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * [CVE Pending] [Bludit CMS Authentication Bypass](https://github.com/bludit/bludit/pull/1616) | [DepthFirst Patch](https://github.com/bludit/bludit/pull/1616)
 * [CVE Pending] [Bludit CMS RCE via Webhook Secret Bypass](https://github.com/bludit/bludit/pull/1617) | [DepthFirst Patch](https://github.com/bludit/bludit/pull/1617)
 * [CVE Pending] [XORM Database Library (used by Grafana) Arbitrary Data Manipulation](https://gitea.com/xorm/xorm/commit/b21bdb9872f6a9a5a01fef131a1a48d0e5485354) | [DepthFirst Patch](https://gitea.com/xorm/xorm/commit/b21bdb9872f6a9a5a01fef131a1a48d0e5485354)
-* CVE Pending [Expensify Secure Authorization Bypass](https://github.com/Expensify/App/commit/bb4d19c5585b93582013437590fe498efe8866f8)
+* [CVE Pending] [Expensify Secure Authorization Bypass](https://github.com/Expensify/App/commit/bb4d19c5585b93582013437590fe498efe8866f8)
 * CVE-2025-64721 [Sandboxie Sandbox Escape & Privilege Escalation to SYSTEM](https://github.com/sandboxie-plus/Sandboxie/security/advisories/GHSA-w476-j57g-96vp)
 * CVE-2025-14986 Temporal Cross-Tenant Data Leak and Policy Bypass
 * [CVE Pending] [Walkdir Rust Library Symlink traversal and Defensive Bypass](https://github.com/BurntSushi/walkdir/issues/209)
