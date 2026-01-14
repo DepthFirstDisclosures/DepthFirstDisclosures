@@ -22,4 +22,5 @@ _Unpatched vulnerabilities remain private until vendors have had the opportunity
 Security-adjacent bugs found and fixed by DepthFirst in OSS
 * [Esbuild XSS via foldername on dev server](https://github.com/evanw/esbuild/pull/4316#event-20653677937)
 
-  
+## Disclosure Policy
+We follow a [90 day disclosure standard](https://depthfirst.com/post/our-approach-to-coordinated-vulnerability-disclosure)
