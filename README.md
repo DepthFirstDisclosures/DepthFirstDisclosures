@@ -12,6 +12,7 @@ A log of vulnerabilities [DepthFirst](https://www.depthfirst.com/) has reported 
 * CVE-2025-64721 [Sandboxie Sandbox Escape & Privilege Escalation to SYSTEM](https://github.com/sandboxie-plus/Sandboxie/security/advisories/GHSA-w476-j57g-96vp)
 * CVE-2025-14986 Temporal Cross-Tenant Data Leak and Policy Bypass
 * [CVE Pending] [Walkdir Rust Library Symlink traversal and Defensive Bypass](https://github.com/BurntSushi/walkdir/issues/209)
+* [CVE Pending] [OpenClaw/MoltBot/ClawdBot 1-Click RCE](https://github.com/openclaw/openclaw/security/advisories/GHSA-g8p2-7wf7-98mq)
 * [CVE Pending] [Fully Redacted (unpatched)]
 * [CVE Pending] [Fully Redacted (unpatched)]
 * [CVE Pending] [Fully Redacted (unpatched)]
